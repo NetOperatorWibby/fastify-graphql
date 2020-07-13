@@ -29,7 +29,7 @@
     "nyc": "^13.1.0",
     "sinon": "^7.1.1",
     "snazzy": "^8.0.0",
-    "standard-version": "^4.4.0",
+    "standard-version": "^8.0.1",
     "standardx": "^3.0.1",
     "supertest": "^3.3.0",
     "supertest-as-promised": "^4.0.2",
